@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.custom-container {
+    background-color: orange;
+    width: 500px;
+    height: 340px;
+    border-radius: 20px;
+}
+
+.kata {
+    padding-top:50px;
+    padding-left: 20px;
+    font-size: 35px;
+}
+
+.box {
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.box input {
+    padding: 15px;
+    width: 350px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.sql {
+    height: 80px;
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: green;
+}
+
+.api {
+    height: 80px;
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: blue;
+}
+
+.log {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
